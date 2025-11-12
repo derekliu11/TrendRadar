@@ -1,12 +1,11 @@
 华为
-鸿蒙
 比亚迪
 大疆
 DJI
 宇树
 拓竹
 京东
-刘强东
+
 
 字节
 tiktok
@@ -28,38 +27,23 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
 sora
 
 claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 人工智能
 
 自动驾驶
-机器人
+
+芯片
 
 中国
 美国
 日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
 股
 债
 黄金
